@@ -1,6 +1,6 @@
 package web
 
-import "MyProjects/console_notes/client/dto"
+import "education/console_notes/client/dto"
 
 type Web interface {
 	SendNote(note dto.Note) (noteID int64, err error)

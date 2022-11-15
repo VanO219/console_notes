@@ -1,7 +1,7 @@
 package console
 
 import (
-	"MyProjects/console_notes/client/models/web"
+	"education/console_notes/client/models/web"
 )
 
 type Viewer struct {

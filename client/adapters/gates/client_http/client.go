@@ -1,7 +1,7 @@
 package client_http
 
 import (
-	"MyProjects/console_notes/client/dto"
+	"education/console_notes/client/dto"
 	"net/http"
 )
 
